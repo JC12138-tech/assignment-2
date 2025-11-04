@@ -11,6 +11,7 @@ A Python script that parses an Excel spreadsheet with multiple tabs containing d
 - **Heatmap**: Intensity-based visualization
 - **Marker Clustering**: Automatically groups nearby markers
 - **Multiple Map Layers**: Switch between different map styles
+- **New: Distance Measurement**: Measure distances and surface areas on the map
 
 ## Installation
 
